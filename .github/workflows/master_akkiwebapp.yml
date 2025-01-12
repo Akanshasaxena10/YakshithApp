@@ -54,4 +54,4 @@ jobs:
           app-name: 'akkiwebapp'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CDA5DBE3A25248CEB77821FEBDD06885 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CD1EC51025974465B83EC69399276672 }}
